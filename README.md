@@ -7,7 +7,7 @@ My interests span **Data Analytics, Machine Learning, and NLP**, where I focus o
 I’m particularly driven by:
 - **Analytical problem solving** using data-driven reasoning  
 - **Exploratory Data Analysis & visualization** to uncover patterns and trends  
-- Building **ML & AI systems** that extend beyond notebooks  
+- Creating ML & AI solutions with real-world impact
 - Working with **LLMs and modern AI tools** to solve real-world challenges  
 
 I enjoy continuous learning and aim to grow as a professional who can bridge **analytics, engineering, and AI** effectively.
