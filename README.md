@@ -1,19 +1,19 @@
 ## Hi 👋, I'm Ahmad Hasan Khan  
 
-I’m a **Data Scientist** with a strong passion for **problem solving and building practical AI solutions**. I enjoy breaking down complex problems, exploring data deeply, and designing intelligent systems that translate theory into real-world impact.
+I’m a **Data Scientist** who enjoys solving problems by turning raw data into **clear insights and intelligent solutions**. I like working across the full data lifecycle — from understanding business questions and exploring data, to building analytical dashboards and AI-driven systems.
 
-My core interests revolve around **Machine Learning, Deep Learning, and Natural Language Processing**, with a growing focus on **LLMs and production-ready AI systems**. I thrive on learning new tools, experimenting with modern AI frameworks.
+My interests span **Data Analytics, Machine Learning, and NLP**, where I focus on extracting meaning from data and designing models and pipelines that are both **practical and scalable**. I believe strong problem-solving starts with asking the right questions, validating assumptions, and choosing the right tools for the task.
 
-I am especially driven by:
-- Solving **real-world problems** using data-driven approaches  
-- Building **end-to-end ML & AI pipelines**  
-- Working with **LLMs, embeddings, and intelligent retrieval systems**  
-- Writing clean, scalable, and efficient code  
+I’m particularly driven by:
+- **Analytical problem solving** using data-driven reasoning  
+- **Exploratory Data Analysis & visualization** to uncover patterns and trends  
+- Building **ML & AI systems** that extend beyond notebooks  
+- Working with **LLMs and modern AI tools** to solve real-world challenges  
 
-I believe strong engineering starts with **clear thinking, strong fundamentals, and curiosity**, and I aim to grow as an AI professional who builds solutions that actually work.
+I enjoy continuous learning and aim to grow as a professional who can bridge **analytics, engineering, and AI** effectively.
 
 ---
 
 ### 🛠️ Languages & Tools  
 
-**Python | C++ | SQL | Git | scikit-learn | PyTorch | TensorFlow | NLP | FastAPI | Flask**
+**Python | SQL | Power BI | Tableau | scikit-learn | PyTorch | TensorFlow | NLP | FastAPI | Git**
