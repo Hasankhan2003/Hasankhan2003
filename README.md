@@ -16,4 +16,4 @@ I enjoy continuous learning and aim to grow as a professional who can bridge **a
 
 ### 🛠️ Languages & Tools  
 
-**Python | SQL | Power BI | Tableau | scikit-learn | PyTorch | TensorFlow | NLP | FastAPI | Git**
+**Python | SQL | Power BI | scikit-learn | PyTorch | TensorFlow | NLP | FastAPI | Git**
