@@ -1,7 +1,3 @@
-Here’s a more **casual, engaging, and student-focused** version that blends **data engineering, AI engineering, and analytics** together naturally:
-
----
-
 ## Hi , I'm Ahmad Hasan Khan
 
 I’m a **data enthusiast and aspiring Data/AI Engineer** who loves turning messy data into meaningful insights and smart solutions. As a student exploring the world of **Data Engineering, AI Engineering, and Analytics**, I enjoy working across the entire data journey — from collecting and cleaning data to building dashboards, models, and intelligent systems.
@@ -24,5 +20,3 @@ Currently growing into a professional who can confidently connect **analytics, e
 ### 🛠️ Languages & Tools
 
 **Python | SQL | Power BI | scikit-learn | PyTorch | TensorFlow | NLP | FastAPI | Git**
-
----
