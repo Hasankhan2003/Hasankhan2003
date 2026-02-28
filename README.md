@@ -1,22 +1,30 @@
-## Hi , I'm Ahmad Hasan Khan
+# Hi! I'm Ahmad Hasan Khan
 
-I’m a **data enthusiast and aspiring Data/AI Engineer** who loves turning messy data into meaningful insights and smart solutions. As a student exploring the world of **Data Engineering, AI Engineering, and Analytics**, I enjoy working across the entire data journey — from collecting and cleaning data to building dashboards, models, and intelligent systems.
+I’m a student and a **Data/AI enthusiast** currently in that "figuring it out" phase—but with a lot of curiosity. I don't just stick to one thing; I’m exploring how everything from **Data Engineering** to **AI/ML** fits together to build something that actually works.
 
-I’m curious about how data flows, how models think, and how insights drive decisions. Whether it’s designing data pipelines, exploring patterns through visualization, or experimenting with ML and LLMs, I enjoy building things that are both **practical and impactful**.
-
-What I do:
-
-* Finding patterns through **EDA and data visualization**
-* Building **data pipelines and scalable systems**
-* Creating ML & AI solutions that solve real problems
-* Exploring **LLMs and modern AI tools**
-
-I believe good data work starts with asking the right questions and choosing the right tools — and I’m constantly learning to sharpen both.
-
-Currently growing into a professional who can confidently connect **analytics, engineering, and AI** to build end-to-end solutions.
+I love the whole process: from the "boring" part of cleaning messy data to the cool part where a model starts making sense.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ What I’m into right now:
 
-**Python | SQL | Power BI | scikit-learn | PyTorch | TensorFlow | NLP | FastAPI | Git**
+* **Data Engineering:** Learning how to build the "plumbing" and systems that keep data moving.
+* **AI & ML Engineering:** Playing around with **PyTorch** and **LLMs** to see what I can build beyond just tutorials.
+* **Analytics:** Using **SQL** and **Power BI** to find the actual stories hidden in numbers.
+
+I’m not an expert yet, but I’m consistently learning to bridge the gap between **Engineering** and **Intelligence** to build end-to-end solutions.
+
+---
+
+### 💻 My Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **ML & AI** | scikit-learn, PyTorch, TensorFlow, NLP, FastAPI |
+| **Data & Viz** | Pandas, NumPy, Power BI |
+| **Tools** | Git, GitHub |
+
+---
+
+*"I believe good data work starts with asking the right questions."*
