@@ -1,18 +1,16 @@
 # Hi! I'm Ahmad Hasan Khan
 
-I’m a student and a **Data/AI enthusiast** currently in that "figuring it out" phase—but with a lot of curiosity. I don't just stick to one thing; I’m exploring how everything from **Data Engineering** to **AI/ML** fits together to build something that actually works.
+I am a final-year Data Science student at FAST-NUCES. I like to treat projects as real problems, focusing on practical, working solutions rather than just following tutorials. 
 
-I love the whole process: from the "boring" part of cleaning messy data to the cool part where a model starts making sense.
+I enjoy writing code and building backend systems, specifically bridging the gap between engineering and intelligence. I like being involved in the whole process—from setting up the infrastructure to developing the models that make sense of the data.
 
 ---
 
-### 🛠️ What I’m into right now:
+### 🛠️ My Distinct Areas of Interest:
 
-* **Data Engineering:** Learning how to build the "plumbing" and systems that keep data moving.
-* **AI & ML Engineering:** Playing around with **PyTorch** and **LLMs** to see what I can build beyond just tutorials.
-* **Analytics:** Using **SQL** and **Power BI** to find the actual stories hidden in numbers.
-
-I’m not an expert yet, but I’m consistently learning to bridge the gap between **Engineering** and **Intelligence** to build end-to-end solutions.
+* **AI & Machine Learning:** Building LLM applications, RAG pipelines, and multi-agent workflows.
+* **Data Engineering:** Setting up the "plumbing," like end-to-end pipelines, orchestration, and MLOps tracking.
+* **Data Analysis:** Working with raw data, cleaning it, and exploring it to find actual value.
 
 ---
 
@@ -20,11 +18,12 @@ I’m not an expert yet, but I’m consistently learning to bridge the gap betwe
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL |
-| **ML & AI** | scikit-learn, PyTorch, TensorFlow, NLP, FastAPI |
-| **Data & Viz** | Pandas, NumPy, Power BI |
-| **Tools** | Git, GitHub |
+| **Languages** | Python, C++, SQL |
+| **GenAI & ML** | Scikit-learn, PyTorch, LangChain, LangGraph, RAG, Vector Databases |
+| **Backend & MLOps** | FastAPI, Apache Airflow, MLflow, Docker |
+| **Data Science** | Pandas, NumPy, EDA, Data Cleaning |
+| **Tools** | Git, GitHub, Postman |
 
 ---
 
-*"I believe good data work starts with asking the right questions."*
+*"I treat projects as real problems, focusing on practical, working solutions."*
