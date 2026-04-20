@@ -2,14 +2,14 @@
 
 I am a final-year Data Science student at FAST-NUCES. I like to treat projects as real problems, focusing on practical, working solutions rather than just following tutorials. 
 
-I enjoy writing code and building backend systems, specifically bridging the gap between engineering and intelligence. I like being involved in the whole process—from setting up the infrastructure to developing the models that make sense of the data.
+I enjoy writing code and building backend systems, specifically bridging the gap between engineering and intelligence. I like being involved in the whole process—from setting up the infrastructure and containerized environments to developing the models that make sense of the data.
 
 ---
 
 ### 🛠️ My Distinct Areas of Interest:
 
 * **AI & Machine Learning:** Building LLM applications, RAG pipelines, and multi-agent workflows.
-* **Data Engineering:** Setting up the "plumbing," like end-to-end pipelines, orchestration, and MLOps tracking.
+* **Data Engineering:** Setting up the "plumbing," like scalable end-to-end pipelines, containerized orchestration, and MLOps tracking.
 * **Data Analysis:** Working with raw data, cleaning it, and exploring it to find actual value.
 
 ---
@@ -20,9 +20,9 @@ I enjoy writing code and building backend systems, specifically bridging the gap
 | :--- | :--- |
 | **Languages** | Python, C++, SQL |
 | **GenAI & ML** | Scikit-learn, PyTorch, LangChain, LangGraph, RAG, Vector Databases |
-| **Backend & MLOps** | FastAPI, Apache Airflow, MLflow, Docker |
+| **Backend & MLOps** | FastAPI, Kubeflow, Kubernetes, Docker, Apache Airflow, MLflow |
 | **Data Science** | Pandas, NumPy, EDA, Data Cleaning |
-| **Tools** | Git, GitHub, Postman |
+| **Tools** | Git, GitHub, Postman, Linux |
 
 ---
 
